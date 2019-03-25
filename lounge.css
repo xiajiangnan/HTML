@@ -1,0 +1,15 @@
+.guarantee{
+  border-color: black;
+  border-width:1px;
+  border-style: solid;
+  background-color: #a7cece;
+  padding: 25px;
+  margin: 30px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #444444;
+  line-height: 1.9em;
+  background-image: url(images/background.gif);
+  background-position:top left;
+  background-repeat: no-repeat;
+
+}
